@@ -7,6 +7,7 @@
 - essa função é do Scotty pelo "import Web.Scotty";
 - ela serve para enviar uma resposta HTTP simples como texto puro ao cliente;
 - a função text não trabalha com String, mas usa a variável Text e para isso precisa do "import Data.Text.Lazy (Text)";
+- https://github.com/elc117/apresentacao-bim1-2026a-Oropoc/edit/main/README.md
 ## 
 ### funções IO( ) e mundo puro/real
 ### a parte ( ):
@@ -18,4 +19,5 @@
 - as funções puras do Haskell não podem ler o mundo externo
   (teclado, escrever na tela, acessar internet), e para isso que serve o IO;
 - sintaxe do IO para fazer uma função pura usar o ambiente externo:
-- IO coleta dados → função pura processa → IO mostra resultado
+- IO coleta dados → função pura processa → IO mostra resultado;
+- https://github.com/elc117/apresentacao-bim1-2026a-Oropoc/blob/main/Captura%20de%20tela%202026-04-08%20153216.png
