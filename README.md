@@ -20,4 +20,4 @@
   (teclado, escrever na tela, acessar internet), e para isso que serve o IO;
 - sintaxe do IO para fazer uma função pura usar o ambiente externo:
 - IO coleta dados → função pura processa → IO mostra resultado;
-- https://github.com/elc117/apresentacao-bim1-2026a-Oropoc/blob/main/Captura%20de%20tela%202026-04-08%20153216.png
+- https://github.com/elc117/apresentacao-bim1-2026a-Oropoc/edit/main/README.md
