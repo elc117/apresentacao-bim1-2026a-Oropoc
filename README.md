@@ -19,15 +19,17 @@
 - a função text não trabalha com String, mas usa a variável Text e para isso precisa do "import Data.Text.Lazy (Text)";
 -  https://github.com/elc117/apresentacao-bim1-2026a-Oropoc/edit/main/README.md
 ## 
-### funções IO( ) e mundo puro/real
+### funções IO( )
 ### a parte ( ):
 - chamado unit, não tem valor relevante para retorno;
 - significa uma ação que faz algo mas não retorna valor útil;
 - se parece com o VOID( );
 ### a parte IO:
-- significa que vai executar ações no mundo real;
+- significa que vai executar ações no mundo real (input e output);
 - as funções puras do Haskell não podem ler o mundo externo
   (teclado, escrever na tela, acessar internet), e para isso que serve o IO;
 - sintaxe do IO para fazer uma função pura usar o ambiente externo:
 - IO coleta dados → função pura processa → IO mostra resultado;
+##
+## Exercício
 - https://github.com/elc117/apresentacao-bim1-2026a-Oropoc/edit/main/README.md
