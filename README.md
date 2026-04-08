@@ -2,10 +2,12 @@
 
 ## Elementos conhecidos:
 ### Listas:
-- no arquivo randomAdviceServices;
+- no arquivo "randomAdviceServices";
 - "advices :: [Text]" é uma função que não faz nada, apenas dá o nome para uma lista de Text
 ## 
-### Função Lenght 
+### Função Lenght:
+- no arquivo "randomAdviceServices";
+- "index <- randomRIO (0, length advices - 1)": aqui o lenght está dando o tamanho da lista advices -1 pois a pesquisa é por ID e está começando em 0;
 
 ## 
 ## Novidades dos exemplos:
