@@ -1,7 +1,11 @@
 # Apresentação João Daniel 
 
 ## Elementos conhecidos:
-### 
+### Listas:
+- no arquivo randomAdviceServices;
+- "advices :: [Text]" é uma função que não faz nada, apenas dá o nome para uma lista de Text
+## 
+### Função Lenght 
 
 ## 
 ## Novidades dos exemplos:
