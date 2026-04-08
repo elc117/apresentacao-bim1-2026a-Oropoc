@@ -39,6 +39,8 @@
 ##
 ## Exercício
 ### Modifiquei o programa do arquivo "randomAdviceService.hs" criando outra rota para que a pessoa escolha a sugestão pelo id dela
+<img width="1" height="3" alt="Captura de tela 2026-04-08 202516" src="https://github.com/user-attachments/assets/77dad356-84a2-4f20-9841-9efdccbe4f22" />
+
 ![gravação paradigmas](https://github.com/user-attachments/assets/97e37c63-ae38-474e-a35c-e676d0b82838)
 
 ##
