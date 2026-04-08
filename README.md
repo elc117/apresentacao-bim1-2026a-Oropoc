@@ -41,4 +41,6 @@
 ### Modifiquei o programa do arquivo "randomAdviceService.hs" criando outra rota para que a pessoa escolha a sugestão pelo id dela
 ![gravação paradigmas](https://github.com/user-attachments/assets/97e37c63-ae38-474e-a35c-e676d0b82838)
 
+##
+
 
